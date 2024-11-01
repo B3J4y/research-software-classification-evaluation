@@ -1,0 +1,5 @@
+https://doi.org/10.21105/joss.06203
+https://doi.org/10.21105/joss.06358
+https://doi.org/10.21105/joss.05855
+https://doi.org/10.21105/joss.02017
+https://doi.org/10.21105/joss.05940
